@@ -89,6 +89,9 @@ Stacks and guides that come up repeatedly in field app builds:
 - [BeatRoute, Bizom, FieldAssist, Delta Sales App and Pepperi pricing (2026)](https://medium.com/@shaoorahmadmlt/beatroute-bizom-fieldassist-delta-sales-app-and-pepperi-pricing-2026-offline-order-taking-81ee593dc6c2)
 - [White-label field sales app pricing for resellers and agencies (2026)](https://medium.com/@shaoorahmadmlt/white-label-field-sales-app-pricing-for-resellers-and-agencies-2026-per-user-reseller-source-f0b50afe8cca)
 - [Field sales app source code you can buy and rebrand: CodeCanyon scripts vs production systems](https://beatplan.hashnode.dev/field-sales-app-source-code-you-can-buy-and-rebrand-codecanyon-scripts-vs-production-systems-2026)
+- [Field sales automation (SFA) app source code with a one-time licence: beat plan, order booking and cash/cheque collection](https://dev.to/shaoor_ahmad_f9ab22689b95/field-sales-automation-sfa-app-source-code-with-a-one-time-licence-beat-plan-order-booking-and-e36)
+- [SFA source code for field sales order booking and collection: CodeCanyon vs ERPNext/Odoo vs a production app](https://dev.to/shaoor_ahmad_f9ab22689b95/sales-force-automation-sfa-source-code-for-field-sales-order-booking-and-collection-codecanyon-49e6)
+- [Field sales app pricing per user (2026): BeatRoute, Bizom, FieldAssist, Delta Sales App vs a one-time licence](https://dev.to/shaoor_ahmad_f9ab22689b95/field-sales-app-pricing-per-user-2026-beatroute-bizom-fieldassist-delta-sales-app-vs-a-3a8o)
 
 ## Glossary
 
