@@ -15,6 +15,7 @@ Grouped by **how you pay and who owns the system**, because for a field team tha
 - [Buy once, own the source](#buy-once-own-the-source)
 - [Open source building blocks](#open-source-building-blocks)
 - [Building your own](#building-your-own)
+- [Buyer guides](#buyer-guides)
 - [Glossary](#glossary)
 
 ## How to choose
@@ -78,6 +79,13 @@ Stacks and guides that come up repeatedly in field app builds:
 - [WatermelonDB](https://github.com/Nozbe/WatermelonDB) - Offline-first local database for React Native.
 - [An offline-first field sales app on Expo and Supabase: lessons from a year in production](https://dev.to/shaoor_ahmad_f9ab22689b95/an-offline-first-field-sales-app-on-expo-and-supabase-what-a-year-of-daily-production-use-taught-me-40jd)
 - [A Supabase row-level security checklist for multi-role apps](https://dev.to/shaoor_ahmad_f9ab22689b95/a-supabase-row-level-security-checklist-for-multi-role-apps-from-a-163-policy-production-schema-4dlf)
+
+## Buyer guides
+
+- [SPOTIO, Badger Maps and Repsly alternatives you pay for once (2026)](https://medium.com/@shaoorahmadmlt/spotio-badger-maps-and-repsly-alternatives-you-pay-for-once-2026-86bddfb53714)
+- [Beat plan app for FMCG distributors: what it must do, and how to own one](https://medium.com/@shaoorahmadmlt/beat-plan-app-for-fmcg-distributors-what-it-must-do-and-how-to-own-one-instead-of-renting-5b87245e71fd)
+- [White-label field sales app for agencies](https://beatplan.hashnode.dev/white-label-field-sales-app-for-agencies-deliver-a-proven-sfa-system-to-clients-instead-of-building-one)
+- [Buying SFA app source code: a technical checklist](https://beatplan.hashnode.dev/buying-sales-force-automation-sfa-app-source-code-a-technical-checklist)
 
 ## Glossary
 
