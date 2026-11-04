@@ -86,6 +86,9 @@ Stacks and guides that come up repeatedly in field app builds:
 - [Beat plan app for FMCG distributors: what it must do, and how to own one](https://medium.com/@shaoorahmadmlt/beat-plan-app-for-fmcg-distributors-what-it-must-do-and-how-to-own-one-instead-of-renting-5b87245e71fd)
 - [White-label field sales app for agencies](https://beatplan.hashnode.dev/white-label-field-sales-app-for-agencies-deliver-a-proven-sfa-system-to-clients-instead-of-building-one)
 - [Buying SFA app source code: a technical checklist](https://beatplan.hashnode.dev/buying-sales-force-automation-sfa-app-source-code-a-technical-checklist)
+- [BeatRoute, Bizom, FieldAssist, Delta Sales App and Pepperi pricing (2026)](https://medium.com/@shaoorahmadmlt/beatroute-bizom-fieldassist-delta-sales-app-and-pepperi-pricing-2026-offline-order-taking-81ee593dc6c2)
+- [White-label field sales app pricing for resellers and agencies (2026)](https://medium.com/@shaoorahmadmlt/white-label-field-sales-app-pricing-for-resellers-and-agencies-2026-per-user-reseller-source-f0b50afe8cca)
+- [Field sales app source code you can buy and rebrand: CodeCanyon scripts vs production systems](https://beatplan.hashnode.dev/field-sales-app-source-code-you-can-buy-and-rebrand-codecanyon-scripts-vs-production-systems-2026)
 
 ## Glossary
 
